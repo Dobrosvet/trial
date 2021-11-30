@@ -1,5 +1,6 @@
 ---
-yaml-заголовок: ты отображаешься на GitHub?
+yaml-заголовок: отображается на GitHub в виде таблицы
+и даже: в каком то формате
 ---
 
 # Тестовый репозиторий
@@ -9,3 +10,4 @@ yaml-заголовок: ты отображаешься на GitHub?
 ## Тест отображения Mermaid из Typora на GitHub
 
 [![](https://mermaid.ink/img/eyJjb2RlIjoiZ3JhcGggTFJcblxuQShIYXJkIGVkZ2UpXG5CKFJvdW5kIGVkZ2UpXG4xMijQptC10LvRjCB4KVxuQyhEZWNpc2lvbilcbkQoUmVzdWx0IG9uZSlcbkUoUmVzdWx0IHR3bylcblxuQSAtLT4gQlxuQiAtLT4gQ1xuQyAtLT4gRFxuQyAtLT4gRVxuQiAtLT4gRVxuQSAtLT4gRCIsIm1lcm1haWQiOnsidGhlbWUiOiJkZWZhdWx0In0sInVwZGF0ZUVkaXRvciI6ZmFsc2UsImF1dG9TeW5jIjp0cnVlLCJ1cGRhdGVEaWFncmFtIjpmYWxzZX0)](https://mermaid-js.github.io/mermaid-live-editor/edit#eyJjb2RlIjoiZ3JhcGggTFJcblxuQShIYXJkIGVkZ2UpXG5CKFJvdW5kIGVkZ2UpXG4xMijQptC10LvRjCB4KVxuQyhEZWNpc2lvbilcbkQoUmVzdWx0IG9uZSlcbkUoUmVzdWx0IHR3bylcblxuQSAtLT4gQlxuQiAtLT4gQ1xuQyAtLT4gRFxuQyAtLT4gRVxuQiAtLT4gRVxuQSAtLT4gRCIsIm1lcm1haWQiOiJ7XG4gIFwidGhlbWVcIjogXCJkZWZhdWx0XCJcbn0iLCJ1cGRhdGVFZGl0b3IiOmZhbHNlLCJhdXRvU3luYyI6dHJ1ZSwidXBkYXRlRGlhZ3JhbSI6ZmFsc2V9)
+
